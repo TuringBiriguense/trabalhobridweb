@@ -43,10 +43,7 @@ h3{
     color: black;
     font-style: normal;
 }
-pre{   
-    font-family: 'Ubuntu', sans-serif;
-    font-style: italic;
-}
+
 
 .flex-container {
     display: flex;
