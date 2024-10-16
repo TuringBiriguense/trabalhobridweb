@@ -17,12 +17,10 @@ header {
 }
 #navegador img{
     margin-bottom: 3ch;
-    margin-left: 0ch;
 }
 
 #linux img {
     margin-bottom: 3ch;
-    margin-left: 8ch;
 }
 .logo {  
     display: flex;
